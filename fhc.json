@@ -1,0 +1,364 @@
+{
+  "forca": {
+    "treinoA": {
+      "nome": "Treino A - Costas e Bíceps (Força)",
+      "descricao": "Treino focado em força, com cargas pesadas e repetições mais baixas.",
+      "exercicios": [
+        {
+          "nome": "Remada Curvada com Barra",
+          "grupoMuscular": "Costas",
+          "series": "5",
+          "repeticoes": "4-6"
+        },
+        {
+          "nome": "Puxada na Barra Fixa",
+          "grupoMuscular": "Costas",
+          "series": "4",
+          "repeticoes": "4-6"
+        },
+        {
+          "nome": "Rosca Direta com Barra",
+          "grupoMuscular": "Bíceps",
+          "series": "4",
+          "repeticoes": "4-6"
+        },
+        {
+          "nome": "Rosca Martelo",
+          "grupoMuscular": "Bíceps/Antebraço",
+          "series": "4",
+          "repeticoes": "4-6"
+        }
+      ]
+    },
+    "treinoB": {
+      "nome": "Treino B - Peito e Tríceps (Força)",
+      "descricao": "Treino focado em força, com ênfase em exercícios compostos.",
+      "exercicios": [
+        {
+          "nome": "Supino Reto com Barra",
+          "grupoMuscular": "Peito",
+          "series": "5",
+          "repeticoes": "4-6"
+        },
+        {
+          "nome": "Supino Inclinado com Halteres",
+          "grupoMuscular": "Peito",
+          "series": "4",
+          "repeticoes": "4-6"
+        },
+        {
+          "nome": "Desenvolvimento com Barra",
+          "grupoMuscular": "Ombros",
+          "series": "4",
+          "repeticoes": "4-6"
+        },
+        {
+          "nome": "Tríceps Testa",
+          "grupoMuscular": "Tríceps",
+          "series": "4",
+          "repeticoes": "4-6"
+        }
+      ]
+    },
+    "treinoC": {
+      "nome": "Treino C - Pernas (Força)",
+      "descricao": "Treino de pernas com ênfase em cargas pesadas e menos repetições.",
+      "exercicios": [
+        {
+          "nome": "Agachamento com Barra",
+          "grupoMuscular": "Pernas",
+          "series": "5",
+          "repeticoes": "4-6"
+        },
+        {
+          "nome": "Leg Press",
+          "grupoMuscular": "Pernas",
+          "series": "5",
+          "repeticoes": "4-6"
+        },
+        {
+          "nome": "Cadeira Extensora",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "6-8"
+        },
+        {
+          "nome": "Stiff com Barra",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "4-6"
+        }
+      ]
+    }
+  },
+  "hipertrofia": {
+    "treinoA": {
+      "nome": "Treino A - Costas e Bíceps (Hipertrofia)",
+      "descricao": "Treino focado em hipertrofia, com volume alto e descanso curto.",
+      "exercicios": [
+        {
+          "nome": "Remada Curvada com Barra",
+          "grupoMuscular": "Costas",
+          "series": "4",
+          "repeticoes": "8-12"
+        },
+        {
+          "nome": "Puxada na Barra Fixa",
+          "grupoMuscular": "Costas",
+          "series": "4",
+          "repeticoes": "8-12"
+        },
+        {
+          "nome": "Rosca Direta com Barra",
+          "grupoMuscular": "Bíceps",
+          "series": "4",
+          "repeticoes": "10-12"
+        },
+        {
+          "nome": "Rosca Alternada com Halteres",
+          "grupoMuscular": "Bíceps",
+          "series": "3",
+          "repeticoes": "12-15"
+        }
+      ]
+    },
+    "treinoB": {
+      "nome": "Treino B - Peito e Tríceps (Hipertrofia)",
+      "descricao": "Treino focado em hipertrofia, com séries longas e intervalos curtos.",
+      "exercicios": [
+        {
+          "nome": "Supino Reto com Barra",
+          "grupoMuscular": "Peito",
+          "series": "4",
+          "repeticoes": "8-12"
+        },
+        {
+          "nome": "Supino Inclinado com Halteres",
+          "grupoMuscular": "Peito",
+          "series": "4",
+          "repeticoes": "8-12"
+        },
+        {
+          "nome": "Desenvolvimento com Barra",
+          "grupoMuscular": "Ombros",
+          "series": "4",
+          "repeticoes": "8-12"
+        },
+        {
+          "nome": "Tríceps Testa",
+          "grupoMuscular": "Tríceps",
+          "series": "4",
+          "repeticoes": "10-12"
+        }
+      ]
+    },
+    "treinoC": {
+      "nome": "Treino C - Pernas (Hipertrofia)",
+      "descricao": "Treino com maior volume de repetições e exercícios para hipertrofia das pernas.",
+      "exercicios": [
+        {
+          "nome": "Agachamento com Barra",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "8-12"
+        },
+        {
+          "nome": "Leg Press",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "10-12"
+        },
+        {
+          "nome": "Cadeira Extensora",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "12-15"
+        },
+        {
+          "nome": "Stiff com Barra",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "8-10"
+        }
+      ]
+    }
+  },
+  "emagrecimento_condicionamento": {
+    "treinoA": {
+      "nome": "Treino A - Full Body (Emagrecimento/Condicionamento)",
+      "descricao": "Treino metabólico de corpo inteiro para maximizar o gasto calórico.",
+      "exercicios": [
+        {
+          "nome": "Burpees",
+          "grupoMuscular": "Corpo inteiro",
+          "series": "4",
+          "repeticoes": "15"
+        },
+        {
+          "nome": "Saltos no Caixote",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "15"
+        },
+        {
+          "nome": "Kettlebell Swing",
+          "grupoMuscular": "Pernas e Core",
+          "series": "4",
+          "repeticoes": "20"
+        },
+        {
+          "nome": "Mountain Climbers",
+          "grupoMuscular": "Core",
+          "series": "4",
+          "repeticoes": "20"
+        }
+      ]
+    },
+    "treinoB": {
+      "nome": "Treino B - Circuito (Emagrecimento/Condicionamento)",
+      "descricao": "Treino com circuito para emagrecimento, alta intensidade e pouco descanso.",
+      "exercicios": [
+        {
+          "nome": "Corrida no Lugar",
+          "grupoMuscular": "Cardio",
+          "series": "4",
+          "repeticoes": "1 min"
+        },
+        {
+          "nome": "Pular Corda",
+          "grupoMuscular": "Cardio",
+          "series": "4",
+          "repeticoes": "1 min"
+        },
+        {
+          "nome": "Agachamento com Salto",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "15"
+        },
+        {
+          "nome": "Abdominal Bicicleta",
+          "grupoMuscular": "Abdomen",
+          "series": "4",
+          "repeticoes": "20"
+        }
+      ]
+    },
+    "treinoC": {
+      "nome": "Treino C - Cardio Intenso (Emagrecimento/Condicionamento)",
+      "descricao": "Treino de cardio intenso com foco no aumento do gasto calórico.",
+      "exercicios": [
+        {
+          "nome": "Sprints (Corrida Intensa)",
+          "grupoMuscular": "Cardio",
+          "series": "5",
+          "repeticoes": "30 seg"
+        },
+        {
+          "nome": "Saltos no Caixote",
+          "grupoMuscular": "Pernas",
+          "series": "5",
+          "repeticoes": "10"
+        },
+        {
+          "nome": "Kettlebell Swing",
+          "grupoMuscular": "Pernas e Core",
+          "series": "5",
+          "repeticoes": "20"
+        }
+      ]
+    }
+  },
+  "funcional": {
+    "treinoA": {
+      "nome": "Treino A - Funcional (Resistência e Agilidade)",
+      "descricao": "Treino funcional com ênfase em resistência, equilíbrio e agilidade.",
+      "exercicios": [
+        {
+          "nome": "Agachamento com Peso Corporal",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "20"
+        },
+        {
+          "nome": "Flexão de Braços",
+          "grupoMuscular": "Peito",
+          "series": "4",
+          "repeticoes": "15"
+        },
+        {
+          "nome": "Pular Corda",
+          "grupoMuscular": "Cardio",
+          "series": "4",
+          "repeticoes": "1 min"
+        },
+        {
+          "nome": "Prancha",
+          "grupoMuscular": "Core",
+          "series": "4",
+          "repeticoes": "1 min"
+        }
+      ]
+    },
+    "treinoB": {
+      "nome": "Treino B - Funcional (Equilíbrio e Core)",
+      "descricao": "Treino de funcional para melhorar o equilíbrio e ativar o core.",
+      "exercicios": [
+        {
+          "nome": "Lunges (Avanço)",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "15 por perna"
+        },
+        {
+          "nome": "Prancha Lateral",
+          "grupoMuscular": "Core",
+          "series": "4",
+          "repeticoes": "30 seg por lado"
+        },
+        {
+          "nome": "Agachamento com Peso Corporal",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "20"
+        },
+        {
+          "nome": "Escalador",
+          "grupoMuscular": "Cardio",
+          "series": "4",
+          "repeticoes": "20"
+        }
+      ]
+    },
+    "treinoC": {
+      "nome": "Treino C - Funcional (Força e Resistência)",
+      "descricao": "Treino funcional com exercícios que melhoram força e resistência.",
+      "exercicios": [
+        {
+          "nome": "Agachamento com Barra",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "15"
+        },
+        {
+          "nome": "Flexão de Braços",
+          "grupoMuscular": "Peito",
+          "series": "4",
+          "repeticoes": "15"
+        },
+        {
+          "nome": "Kettlebell Swing",
+          "grupoMuscular": "Pernas e Core",
+          "series": "4",
+          "repeticoes": "20"
+        },
+        {
+          "nome": "Saltos no Caixote",
+          "grupoMuscular": "Pernas",
+          "series": "4",
+          "repeticoes": "10"
+        }
+      ]
+    }
+  }
+}

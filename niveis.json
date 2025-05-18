@@ -1,0 +1,440 @@
+{
+    "iniciante": {
+        "treinoA": {
+            "nome": "Treino A - Costas, Bíceps e Antebraço",
+            "descricao": "Treino focado em costas, bíceps e antebraço para iniciantes, com ênfase na técnica.",
+            "exercicios": [
+                {
+                    "nome": "Remada Curvada com Barra",
+                    "grupoMuscular": "Costas",
+                    "series": "3",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Puxada na Barra Fixa",
+                    "grupoMuscular": "Costas",
+                    "series": "3",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Pullover com Halteres",
+                    "grupoMuscular": "Costas",
+                    "series": "3",
+                    "repeticoes": "10"
+                },
+                {
+                    "nome": "Rosca Direta com Barra",
+                    "grupoMuscular": "Bíceps",
+                    "series": "3",
+                    "repeticoes": "10"
+                },
+                {
+                    "nome": "Rosca Alternada com Halteres",
+                    "grupoMuscular": "Bíceps",
+                    "series": "3",
+                    "repeticoes": "12"
+                },
+                {
+                    "nome": "Rosca Martelo",
+                    "grupoMuscular": "Bíceps/Antebraço",
+                    "series": "2",
+                    "repeticoes": "12"
+                },
+                {
+                    "nome": "Enrolamento de Pulso com Halteres",
+                    "grupoMuscular": "Antebraço",
+                    "series": "2",
+                    "repeticoes": "15"
+                }
+            ]
+        },
+        "treinoB": {
+            "nome": "Treino B - Peito, Ombro e Tríceps",
+            "descricao": "Treino focado em peito, ombro e tríceps, com exercícios básicos e menos volume.",
+            "exercicios": [
+                {
+                    "nome": "Supino Reto com Barra",
+                    "grupoMuscular": "Peito",
+                    "series": "3",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Supino Inclinado com Halteres",
+                    "grupoMuscular": "Peito",
+                    "series": "3",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Crucifixo com Halteres",
+                    "grupoMuscular": "Peito",
+                    "series": "2",
+                    "repeticoes": "10"
+                },
+                {
+                    "nome": "Desenvolvimento com Barra",
+                    "grupoMuscular": "Ombros",
+                    "series": "3",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Elevação Lateral com Halteres",
+                    "grupoMuscular": "Ombros",
+                    "series": "2",
+                    "repeticoes": "12"
+                },
+                {
+                    "nome": "Tríceps Testa",
+                    "grupoMuscular": "Tríceps",
+                    "series": "3",
+                    "repeticoes": "10"
+                },
+                {
+                    "nome": "Mergulho (Dips)",
+                    "grupoMuscular": "Tríceps",
+                    "series": "2",
+                    "repeticoes": "8-10"
+                }
+            ]
+        },
+        "treinoC": {
+            "nome": "Treino C - Pernas e Abdomen",
+            "descricao": "Treino focado em pernas e abdômen, com foco no controle e resistência.",
+            "exercicios": [
+                {
+                    "nome": "Agachamento com Barra",
+                    "grupoMuscular": "Pernas",
+                    "series": "3",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Leg Press",
+                    "grupoMuscular": "Pernas",
+                    "series": "3",
+                    "repeticoes": "10"
+                },
+                {
+                    "nome": "Cadeira Extensora",
+                    "grupoMuscular": "Pernas",
+                    "series": "2",
+                    "repeticoes": "12"
+                },
+                {
+                    "nome": "Cadeira Flexora",
+                    "grupoMuscular": "Pernas",
+                    "series": "2",
+                    "repeticoes": "12"
+                },
+                {
+                    "nome": "Stiff com Barra",
+                    "grupoMuscular": "Pernas",
+                    "series": "3",
+                    "repeticoes": "10"
+                },
+                {
+                    "nome": "Abdominal Infra",
+                    "grupoMuscular": "Abdomen",
+                    "series": "3",
+                    "repeticoes": "20"
+                },
+                {
+                    "nome": "Abdominal Oblíquo com Halteres",
+                    "grupoMuscular": "Abdomen",
+                    "series": "2",
+                    "repeticoes": "15"
+                }
+            ]
+        }
+    },
+    "intermediario": {
+        "treinoA": {
+            "nome": "Treino A - Costas, Bíceps e Antebraço",
+            "descricao": "Treino intermediário com foco em costas, bíceps e antebraço, aumento de volume e intensidade.",
+            "exercicios": [
+                {
+                    "nome": "Remada Curvada com Barra",
+                    "grupoMuscular": "Costas",
+                    "series": "4",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Puxada na Barra Fixa",
+                    "grupoMuscular": "Costas",
+                    "series": "4",
+                    "repeticoes": "8-12"
+                },
+                {
+                    "nome": "Pullover com Halteres",
+                    "grupoMuscular": "Costas",
+                    "series": "3",
+                    "repeticoes": "12"
+                },
+                {
+                    "nome": "Rosca Direta com Barra",
+                    "grupoMuscular": "Bíceps",
+                    "series": "4",
+                    "repeticoes": "10-12"
+                },
+                {
+                    "nome": "Rosca Alternada com Halteres",
+                    "grupoMuscular": "Bíceps",
+                    "series": "3",
+                    "repeticoes": "12-15"
+                },
+                {
+                    "nome": "Rosca Martelo",
+                    "grupoMuscular": "Bíceps/Antebraço",
+                    "series": "3",
+                    "repeticoes": "12"
+                },
+                {
+                    "nome": "Enrolamento de Pulso com Halteres",
+                    "grupoMuscular": "Antebraço",
+                    "series": "3",
+                    "repeticoes": "15-20"
+                }
+            ]
+        },
+        "treinoB": {
+            "nome": "Treino B - Peito, Ombro e Tríceps",
+            "descricao": "Treino intermediário com maior volume e intensidade.",
+            "exercicios": [
+                {
+                    "nome": "Supino Reto com Barra",
+                    "grupoMuscular": "Peito",
+                    "series": "4",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Supino Inclinado com Halteres",
+                    "grupoMuscular": "Peito",
+                    "series": "4",
+                    "repeticoes": "10-12"
+                },
+                {
+                    "nome": "Crucifixo com Halteres",
+                    "grupoMuscular": "Peito",
+                    "series": "3",
+                    "repeticoes": "12-15"
+                },
+                {
+                    "nome": "Desenvolvimento com Barra",
+                    "grupoMuscular": "Ombros",
+                    "series": "4",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Elevação Lateral com Halteres",
+                    "grupoMuscular": "Ombros",
+                    "series": "3",
+                    "repeticoes": "12-15"
+                },
+                {
+                    "nome": "Tríceps Testa",
+                    "grupoMuscular": "Tríceps",
+                    "series": "4",
+                    "repeticoes": "10-12"
+                },
+                {
+                    "nome": "Mergulho (Dips)",
+                    "grupoMuscular": "Tríceps",
+                    "series": "3",
+                    "repeticoes": "8-10"
+                }
+            ]
+        },
+        "treinoC": {
+            "nome": "Treino C - Pernas e Abdomen",
+            "descricao": "Treino intermediário, maior foco em resistência e hipertrofia.",
+            "exercicios": [
+                {
+                    "nome": "Agachamento com Barra",
+                    "grupoMuscular": "Pernas",
+                    "series": "4",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Leg Press",
+                    "grupoMuscular": "Pernas",
+                    "series": "4",
+                    "repeticoes": "10-12"
+                },
+                {
+                    "nome": "Cadeira Extensora",
+                    "grupoMuscular": "Pernas",
+                    "series": "3",
+                    "repeticoes": "12-15"
+                },
+                {
+                    "nome": "Cadeira Flexora",
+                    "grupoMuscular": "Pernas",
+                    "series": "3",
+                    "repeticoes": "12-15"
+                },
+                {
+                    "nome": "Stiff com Barra",
+                    "grupoMuscular": "Pernas",
+                    "series": "4",
+                    "repeticoes": "10-12"
+                },
+                {
+                    "nome": "Abdominal Infra",
+                    "grupoMuscular": "Abdomen",
+                    "series": "4",
+                    "repeticoes": "20-25"
+                },
+                {
+                    "nome": "Abdominal Oblíquo com Halteres",
+                    "grupoMuscular": "Abdomen",
+                    "series": "3",
+                    "repeticoes": "15-20"
+                }
+            ]
+        }
+    },
+    "avancado": {
+        "treinoA": {
+            "nome": "Treino A - Costas, Bíceps e Antebraço",
+            "descricao": "Treino avançado com alta carga e variações de exercícios.",
+            "exercicios": [
+                {
+                    "nome": "Remada Curvada com Barra",
+                    "grupoMuscular": "Costas",
+                    "series": "5",
+                    "repeticoes": "6-8"
+                },
+                {
+                    "nome": "Puxada na Barra Fixa",
+                    "grupoMuscular": "Costas",
+                    "series": "5",
+                    "repeticoes": "6-8"
+                },
+                {
+                    "nome": "Pullover com Halteres",
+                    "grupoMuscular": "Costas",
+                    "series": "4",
+                    "repeticoes": "10"
+                },
+                {
+                    "nome": "Rosca Direta com Barra",
+                    "grupoMuscular": "Bíceps",
+                    "series": "5",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Rosca Alternada com Halteres",
+                    "grupoMuscular": "Bíceps",
+                    "series": "4",
+                    "repeticoes": "10-12"
+                },
+                {
+                    "nome": "Rosca Martelo",
+                    "grupoMuscular": "Bíceps/Antebraço",
+                    "series": "4",
+                    "repeticoes": "12"
+                },
+                {
+                    "nome": "Enrolamento de Pulso com Halteres",
+                    "grupoMuscular": "Antebraço",
+                    "series": "4",
+                    "repeticoes": "15-20"
+                }
+            ]
+        },
+        "treinoB": {
+            "nome": "Treino B - Peito, Ombro e Tríceps",
+            "descricao": "Treino avançado com alta carga e foco em força.",
+            "exercicios": [
+                {
+                    "nome": "Supino Reto com Barra",
+                    "grupoMuscular": "Peito",
+                    "series": "5",
+                    "repeticoes": "6-8"
+                },
+                {
+                    "nome": "Supino Inclinado com Halteres",
+                    "grupoMuscular": "Peito",
+                    "series": "5",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Crucifixo com Halteres",
+                    "grupoMuscular": "Peito",
+                    "series": "4",
+                    "repeticoes": "10-12"
+                },
+                {
+                    "nome": "Desenvolvimento com Barra",
+                    "grupoMuscular": "Ombros",
+                    "series": "5",
+                    "repeticoes": "6-8"
+                },
+                {
+                    "nome": "Elevação Lateral com Halteres",
+                    "grupoMuscular": "Ombros",
+                    "series": "4",
+                    "repeticoes": "10-12"
+                },
+                {
+                    "nome": "Tríceps Testa",
+                    "grupoMuscular": "Tríceps",
+                    "series": "5",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Mergulho (Dips)",
+                    "grupoMuscular": "Tríceps",
+                    "series": "4",
+                    "repeticoes": "6-8"
+                }
+            ]
+        },
+        "treinoC": {
+            "nome": "Treino C - Pernas e Abdomen",
+            "descricao": "Treino avançado com maior foco em resistência e alta intensidade.",
+            "exercicios": [
+                {
+                    "nome": "Agachamento com Barra",
+                    "grupoMuscular": "Pernas",
+                    "series": "5",
+                    "repeticoes": "6-8"
+                },
+                {
+                    "nome": "Leg Press",
+                    "grupoMuscular": "Pernas",
+                    "series": "5",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Cadeira Extensora",
+                    "grupoMuscular": "Pernas",
+                    "series": "4",
+                    "repeticoes": "10-12"
+                },
+                {
+                    "nome": "Cadeira Flexora",
+                    "grupoMuscular": "Pernas",
+                    "series": "4",
+                    "repeticoes": "10-12"
+                },
+                {
+                    "nome": "Stiff com Barra",
+                    "grupoMuscular": "Pernas",
+                    "series": "5",
+                    "repeticoes": "8-10"
+                },
+                {
+                    "nome": "Abdominal Infra",
+                    "grupoMuscular": "Abdomen",
+                    "series": "5",
+                    "repeticoes": "25"
+                },
+                {
+                    "nome": "Abdominal Oblíquo com Halteres",
+                    "grupoMuscular": "Abdomen",
+                    "series": "4",
+                    "repeticoes": "20"
+                }
+            ]
+        }
+    }
+}

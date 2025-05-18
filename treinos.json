@@ -1,0 +1,2358 @@
+{
+    "Musculação": {
+        "Iniciante": {
+            "diasDaSemana": {
+                    "Segunda-feira": {
+                    "nome": "Treino de Peito e Tríceps",
+                    "descricao": "Foco em fortalecimento do peitoral e tríceps com exercícios básicos.",
+                    "exercicios": [
+                        {
+                        "nome": "Supino Reto com Barra",
+                        "grupoMuscular": "Peito",
+                        "series": 3,
+                        "repeticoes": 10,
+                        "imagem": "../static/imagem/supinoReto.gif"
+                        },
+                        {
+                        "nome": "Supino Inclinado com Halteres",
+                        "grupoMuscular": "Peito",
+                        "series": 3,
+                        "repeticoes": 10,
+                        "imagem": "../static/imagem/SupInclinadoHalteres.gif"
+                        },
+                        {
+                        "nome": "Crucifixo Reto",
+                        "grupoMuscular": "Peito",
+                        "series": 3,
+                        "repeticoes": 12,
+                        "imagem": "../static/imagem/crucifixoReto.gif"
+                        },
+                        {
+                        "nome": "Tríceps na Polia",
+                        "grupoMuscular": "Tríceps",
+                        "series": 3,
+                        "repeticoes": 12,
+                        "imagem": "../static/imagem/tricepspoliaalta.gif"
+                        },
+                        {
+                        "nome": "Tríceps Testa com Halteres",
+                        "grupoMuscular": "Tríceps",
+                        "series": 3,
+                        "repeticoes": 10,
+                        "imagem": "../static/imagem/tricepstesta.gif"
+                        },
+                        {
+                        "nome": "Flexão de Braços",
+                        "grupoMuscular": "Peito e Tríceps",
+                        "series": 3,
+                        "repeticoes": 15,
+                        "imagem": "../static/imagem/flexaoDeBraco.gif"
+                        }
+                    ]
+                    },
+                    "Terça-feira": {
+                    "nome": "Treino de Costas e Bíceps",
+                    "descricao": "Foco em puxadas e fortalecimento de costas e bíceps.",
+                    "exercicios": [
+                        {
+                        "nome": "Puxada Frontal na Polia",
+                        "grupoMuscular": "Costas",
+                        "series": 4,
+                        "repeticoes": 10,
+                        "imagem": "../static/imagem/puxadaAberta.gif"
+                        },
+                        {
+                        "nome": "Remada Baixa",
+                        "grupoMuscular": "Costas",
+                        "series": 3,
+                        "repeticoes": 10,
+                        "imagem": "../static/imagem/remadaAberta.gif"
+                        },
+                        {
+                        "nome": "Barra Fixa (Assistida)",
+                        "grupoMuscular": "Costas",
+                        "series": 3,
+                        "repeticoes": 8,
+                        "imagem": "../static/imagem/barraFixa.gif"
+                        },
+                        {
+                        "nome": "Rosca Direta com Barra",
+                        "grupoMuscular": "Bíceps",
+                        "series": 3,
+                        "repeticoes": 12,
+                        "imagem": "../static/imagem/roscaDireta.gif"
+                        },
+                        {
+                        "nome": "Rosca Martelo com Halteres",
+                        "grupoMuscular": "Bíceps",
+                        "series": 3,
+                        "repeticoes": 12,
+                        "imagem": "../static/imagem/roscaMartelo.gif"
+                        }
+                    ]
+                    },
+                    "Quarta-feira": {
+                        "nome": "Treino de Pernas e Glúteos",
+                        "descricao": "Trabalho completo de inferiores com foco em força e estabilidade.",
+                        "exercicios": [
+                            {
+                            "nome": "Agachamento Livre",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/agachamento.gif"
+                            },
+                            {
+                            "nome": "Cadeira Extensora",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/cadeiraExtensora.gif"
+                            },
+                            {
+                            "nome": "Afundo com Halteres",
+                            "grupoMuscular": "Glúteos e Pernas",
+                            "series": 3,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/afundoComHalteres.gif"
+                            },
+                            {
+                            "nome": "Cadeira Flexora",
+                            "grupoMuscular": "Posterior de Coxa",
+                            "series": 3,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/flexorDeitado.gif"
+                            },
+                            {
+                            "nome": "Elevação de Quadril (Glute Bridge)",
+                            "grupoMuscular": "Glúteos",
+                            "series": 3,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/ponteGluteo.gif"
+                            },
+                            {
+                            "nome": "Elevação de Panturrilha em Pé",
+                            "grupoMuscular": "Panturrilhas",
+                            "series": 3,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/panturrilha.gif"
+                            }
+                        ]
+                    },
+                    "Quinta-feira": {
+                            "nome": "Treino de Ombros e Abdômen",
+                            "descricao": "Foco em fortalecer a cintura escapular (ombros) e a musculatura abdominal (core).",
+                            "exercicios": [
+                                {
+                                "nome": "Elevação Lateral com Halteres",
+                                "grupoMuscular": "Ombros",
+                                "series": 3,
+                                "repeticoes": 12,
+                                "imagem": "../static/imagem/elevacaoLateralComHalters.gif"
+                                },
+                                {
+                                "nome": "Desenvolvimento Arnold",
+                                "grupoMuscular": "Ombros",
+                                "series": 3,
+                                "repeticoes": 10,
+                                "imagem": "../static/imagem/desenvolvimentoArnold.gif"
+                                },
+                                {
+                                "nome": "Remada Alta com Barra",
+                                "grupoMuscular": "Ombros",
+                                "series": 3,
+                                "repeticoes": 10,
+                                "imagem": "../static/imagem/remadaAlta.gif"
+                                },
+                                {
+                                "nome": "Prancha Abdominal",
+                                "grupoMuscular": "Abdômen",
+                                "series": 3,
+                                "repeticoes": "30s",
+                                "imagem": "../static/imagem/prancha.gif"
+                                },
+                                {
+                                "nome": "Abdominal Tesoura",
+                                "grupoMuscular": "Abdômen inferior",
+                                "series": 3,
+                                "repeticoes": 15,
+                                "imagem": "../static/imagem/AbdTesoura.gif"
+                                },
+                                {
+                                "nome": "Abdominal Alpinista",
+                                "grupoMuscular": "Core",
+                                "series": 3,
+                                "repeticoes": 20,
+                                "imagem": "../static/imagem/AbdAlpinista.gif"
+                                }
+                            ]
+                            },
+                    "Sexta-feira": {
+                        "nome": "Treino Funcional / Full Body Leve",
+                        "descricao": "Exercícios funcionais com menor carga, focando em coordenação, mobilidade e resistência.",
+                        "exercicios": [
+                            {
+                            "nome": "Agachamento Livre com Peso Corporal",
+                            "grupoMuscular": "Pernas",
+                            "series": 3,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/air-squat.gif"
+                            },
+                            {
+                            "nome": "Flexão de Braços",
+                            "grupoMuscular": "Peito e Tríceps",
+                            "series": 3,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/flexaoDeBraco.gif"
+                            },
+                            {
+                            "nome": "Abdominal Reto",
+                            "grupoMuscular": "Abdômen",
+                            "series": 3,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/AbdCurto.gif"
+                            },
+                            {
+                            "nome": "Prancha Lateral",
+                            "grupoMuscular": "Core e Ombros",
+                            "series": 3,
+                            "repeticoes": 20,
+                            "imagem": "../static/imagem/PranchaLateral.gif"
+                            }
+                        ]
+                        },
+                    "Sábado": {
+                        "nome": "Treino de Glúteos e Posterior",
+                        "descricao": "Ênfase nos músculos posteriores da coxa e glúteos, com foco em resistência e forma.",
+                        "exercicios": [
+                            {
+                            "nome": "Agachamento Livre",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/agachamento.gif"
+                            },
+                            {
+                            "nome": "Cadeira Extensora",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/cadeiraExtensora.gif"
+                            },
+                            {
+                            "nome": "Afundo com Halteres",
+                            "grupoMuscular": "Glúteos e Pernas",
+                            "series": 3,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/afundoComHalteres.gif"
+                            },
+                            {
+                            "nome": "Cadeira Flexora",
+                            "grupoMuscular": "Posterior de Coxa",
+                            "series": 3,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/flexorDeitado.gif"
+                            },
+                            {
+                            "nome": "Elevação de Quadril (Glute Bridge)",
+                            "grupoMuscular": "Glúteos",
+                            "series": 3,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/ponteGluteo.gif"
+                            }
+                        ]
+                        }
+                }
+            },
+        "Intermediário": {
+            "diasDaSemana": {
+                "Segunda-feira": {
+                    "nome": "Treino de Peito e Tríceps",
+                    "descricao": "Treino focado em hipertrofia e força para peitoral e tríceps.",
+                    "exercicios": [
+                        {
+                            "nome": "Supino Reto com Barra",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/supinoReto.gif"
+                        },
+                        {
+                            "nome": "Supino Inclinado com Halteres",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Crossover na Polia",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Mergulho (Dips)",
+                            "grupoMuscular": "Peito e Tríceps",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Tríceps Pulley",
+                            "grupoMuscular": "Tríceps",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Tríceps Francês com Haltere",
+                            "grupoMuscular": "Tríceps",
+                            "series": 3,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Peck Deck",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Flexão de Braços com Pegada Fechada",
+                            "grupoMuscular": "Tríceps",
+                            "series": 3,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        }
+                    ]
+                },
+                "Terça-feira": {
+                    "nome": "Treino de Costas e Bíceps",
+                    "descricao": "Treino focado em hipertrofia e força para costas e bíceps.",
+                    "exercicios": [
+                        {
+                            "nome": "Puxada na Polia Alta (Pegada Aberta)",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Remada Unilateral com Haltere",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Remada Curvada com Barra",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Puxada na Polia Baixa (Pegada Neutra)",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Rosca Direta com Barra",
+                            "grupoMuscular": "Bíceps",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Rosca Alternada com Halteres",
+                            "grupoMuscular": "Bíceps",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Rosca Scott",
+                            "grupoMuscular": "Bíceps",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Remada Baixa com Halteres",
+                            "grupoMuscular": "Costas",
+                            "series": 3,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Curl com Barra EZ",
+                            "grupoMuscular": "Bíceps",
+                            "series": 3,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Pullover com Haltere",
+                            "grupoMuscular": "Costas e Peito",
+                            "series": 3,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        }
+                    ]
+                },
+                "Quarta-feira": {
+                    "nome": "Treino de Pernas e Abdômen",
+                    "descricao": "Treino focado em hipertrofia e força para pernas e fortalecimento do core.",
+                    "exercicios": [
+                        {
+                            "nome": "Agachamento com Barra",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Leg Press",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Avanço com Halteres",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Cadeira Extensora",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Stiff com Barra",
+                            "grupoMuscular": "Pernas e Posterior",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Flexora Sentado",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Abdominal Supra",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": 20,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Prancha",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": "30s-1min",
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Elevação de Pernas",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Abdominal Oblíquo com Haltere",
+                            "grupoMuscular": "Core",
+                            "series": 3,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        }
+                    ]
+                },
+                "Quinta-feira": {
+                    "nome": "Treino de Ombros e Trapézio",
+                    "descricao": "Treino focado em hipertrofia e força para ombros e trapézio.",
+                    "exercicios": [
+                        {
+                            "nome": "Desenvolvimento com Barra",
+                            "grupoMuscular": "Ombros",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Elevação Lateral com Halteres",
+                            "grupoMuscular": "Ombros",
+                            "series": 4,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Elevação Frontal com Halteres",
+                            "grupoMuscular": "Ombros",
+                            "series": 3,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Arnold Press",
+                            "grupoMuscular": "Ombros",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Remada Alta com Barra",
+                            "grupoMuscular": "Trapézio",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Encolhimento de Ombros com Halteres",
+                            "grupoMuscular": "Trapézio",
+                            "series": 4,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Face Pull",
+                            "grupoMuscular": "Ombros e Trapézio",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Elevação Lateral na Polia Baixa",
+                            "grupoMuscular": "Ombros",
+                            "series": 3,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        }
+                    ]
+                },
+                "Sexta-feira": {
+                    "nome": "Treino de Peito e Costas",
+                    "descricao": "Treino focado em hipertrofia para peitoral e costas.",
+                    "exercicios": [
+                        {
+                            "nome": "Supino Reto com Barra",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Puxada na Polia Alta (Pegada Aberta)",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Supino Inclinado com Halteres",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Remada Curvada com Barra",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Crossover na Polia",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Remada Baixa com Halteres",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Flexão de Braços",
+                            "grupoMuscular": "Peito",
+                            "series": 3,
+                            "repeticoes": 20,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Pullover com Haltere",
+                            "grupoMuscular": "Costas e Peito",
+                            "series": 3,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        }
+                    ]
+                },
+                "Sábado": {
+                    "nome": "Treino Funcional e Core",
+                    "descricao": "Treino de resistência, estabilidade e fortalecimento do core.",
+                    "exercicios": [
+                        {
+                            "nome": "Agachamento com Peso Corporal",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 20,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Prancha Lateral",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": "30s-1min (cada lado)",
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Saltos no Banco",
+                            "grupoMuscular": "Pernas e Cardio",
+                            "series": 4,
+                            "repeticoes": 20,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Mountain Climbers",
+                            "grupoMuscular": "Core e Cardio",
+                            "series": 4,
+                            "repeticoes": "30s",
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Russian Twist",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": 20,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        }
+                    ]
+                }
+            }
+        },
+        "Avançado": {
+            "diasDaSemana": {
+                "Segunda-feira": {
+                    "nome": "Treino de Peito e Tríceps",
+                    "descricao": "Treino com foco em força e hipertrofia para peito e tríceps.",
+                    "exercicios": [
+                        {
+                            "nome": "Supino Reto com Barra",
+                            "grupoMuscular": "Peito",
+                            "series": 5,
+                            "repeticoes": 6,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Supino Inclinado com Halteres",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 8,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Crossover na Polia",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Mergulho nas Paralelas",
+                            "grupoMuscular": "Tríceps",
+                            "series": 4,
+                            "repeticoes": 8,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Tríceps na Polia Alta",
+                            "grupoMuscular": "Tríceps",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Tríceps Testa com Barra",
+                            "grupoMuscular": "Tríceps",
+                            "series": 4,
+                            "repeticoes": 8,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Supino Declinado com Halteres",
+                            "grupoMuscular": "Peito",
+                            "series": 3,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        }
+                    ]
+                },
+                "Terça-feira": {
+                    "nome": "Treino de Costas e Bíceps",
+                    "descricao": "Treino focado em força e hipertrofia para costas e bíceps.",
+                    "exercicios": [
+                        {
+                            "nome": "Puxada na Polia Alta",
+                            "grupoMuscular": "Costas",
+                            "series": 5,
+                            "repeticoes": 6,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Remada Curvada com Barra",
+                            "grupoMuscular": "Costas",
+                            "series": 5,
+                            "repeticoes": 6,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Remada Unilateral com Halteres",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 8,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Puxada Fechada na Polia",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Rosca Direta com Barra",
+                            "grupoMuscular": "Bíceps",
+                            "series": 4,
+                            "repeticoes": 8,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Rosca Martelo",
+                            "grupoMuscular": "Bíceps",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Rosca Scott",
+                            "grupoMuscular": "Bíceps",
+                            "series": 4,
+                            "repeticoes": 8,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        }
+                    ]
+                },
+                "Quarta-feira": {
+                    "nome": "Treino de Pernas e Abdômen",
+                    "descricao": "Treino focado em força e hipertrofia para pernas e core.",
+                    "exercicios": [
+                        {
+                            "nome": "Agachamento com Barra",
+                            "grupoMuscular": "Pernas",
+                            "series": 5,
+                            "repeticoes": 6,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Leg Press",
+                            "grupoMuscular": "Pernas",
+                            "series": 5,
+                            "repeticoes": 8,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Avanço com Halteres",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Cadeira Extensora",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Stiff com Barra",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 6,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Flexora Sentado",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Abdominal Supra",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": 20,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Prancha",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": "1 min",
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Elevação de Pernas",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Abdominal Oblíquo com Haltere",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        }
+                    ]
+                },
+                "Quinta-feira": {
+                    "nome": "Treino de Ombros e Trapézio",
+                    "descricao": "Treino focado em hipertrofia para ombros e trapézio.",
+                    "exercicios": [
+                        {
+                            "nome": "Desenvolvimento com Barra",
+                            "grupoMuscular": "Ombros",
+                            "series": 5,
+                            "repeticoes": 6,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Elevação Lateral com Halteres",
+                            "grupoMuscular": "Ombros",
+                            "series": 5,
+                            "repeticoes": 10,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Arnold Press",
+                            "grupoMuscular": "Ombros",
+                            "series": 4,
+                            "repeticoes": 8,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Remada Alta com Barra",
+                            "grupoMuscular": "Trapézio",
+                            "series": 4,
+                            "repeticoes": 8,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Encolhimento de Ombros com Halteres",
+                            "grupoMuscular": "Trapézio",
+                            "series": 5,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Face Pull",
+                            "grupoMuscular": "Ombros e Trapézio",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Elevação Lateral na Polia Baixa",
+                            "grupoMuscular": "Ombros",
+                            "series": 4,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        }
+                    ]
+                },
+                "Sexta-feira": {
+                    "nome": "Treino de Peito e Costas",
+                    "descricao": "Treino combinado para peito e costas, com foco em força e hipertrofia.",
+                    "exercicios": [
+                        {
+                            "nome": "Supino Reto com Barra",
+                            "grupoMuscular": "Peito",
+                            "series": 5,
+                            "repeticoes": 6,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Puxada na Polia Alta",
+                            "grupoMuscular": "Costas",
+                            "series": 5,
+                            "repeticoes": 6,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Supino Inclinado com Halteres",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 8,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Remada Curvada com Barra",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 8,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Crossover na Polia",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 15,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Remada Baixa com Halteres",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Pullover com Halteres",
+                            "grupoMuscular": "Costas e Peito",
+                            "series": 3,
+                            "repeticoes": 12,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        }
+                    ]
+                },
+                "Sábado": {
+                    "nome": "Treino Funcional e Core",
+                    "descricao": "Treino com foco em resistência, estabilidade e fortalecimento do core.",
+                    "exercicios": [
+                        {
+                            "nome": "Agachamento com Peso Corporal",
+                            "grupoMuscular": "Pernas",
+                            "series": 5,
+                            "repeticoes": 20,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Prancha Lateral",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": "1 min (cada lado)",
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Saltos no Banco",
+                            "grupoMuscular": "Pernas",
+                            "series": 5,
+                            "repeticoes": 20,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Mountain Climbers",
+                            "grupoMuscular": "Core e Cardio",
+                            "series": 5,
+                            "repeticoes": "30s",
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        },
+                        {
+                            "nome": "Russian Twist",
+                            "grupoMuscular": "Core",
+                            "series": 5,
+                            "repeticoes": 20,
+                            "imagem": "../static/imagem/RemadaSerrote.gif"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "Força e Hipertrofia": {
+        "Iniciante": {
+            "diasDaSemana": {
+                "Segunda-feira": {
+                    "nome": "Treino de Peito e Tríceps",
+                    "descricao": "Treino focado em força e hipertrofia para peito e tríceps.",
+                    "exercicios": [
+                        {
+                            "nome": "Crossover na Polia",
+                            "grupoMuscular": "Peito",
+                            "series": 3,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Mergulho nas Paralelas",
+                            "grupoMuscular": "Tríceps",
+                            "series": 3,
+                            "repeticoes": 8
+                        }
+                    ]
+                },
+                "Terça-feira": {
+                    "nome": "Treino de Costas e Bíceps",
+                    "descricao": "Treino focado em força e hipertrofia para costas e bíceps.",
+                    "exercicios": [
+                        {
+                            "nome": "Puxada na Polia Alta",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Remada Curvada com Barra",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Remada Unilateral com Halteres",
+                            "grupoMuscular": "Costas",
+                            "series": 3,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Rosca Direta com Barra",
+                            "grupoMuscular": "Bíceps",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Rosca Martelo",
+                            "grupoMuscular": "Bíceps",
+                            "series": 3,
+                            "repeticoes": 12
+                        }
+                    ]
+                },
+                "Quarta-feira": {
+                    "nome": "Treino de Pernas e Abdômen",
+                    "descricao": "Treino focado em força e hipertrofia para pernas e core.",
+                    "exercicios": [
+                        {
+                            "nome": "Agachamento com Barra",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Leg Press",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Cadeira Extensora",
+                            "grupoMuscular": "Pernas",
+                            "series": 3,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Stiff com Barra",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Abdominal Supra",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": 20
+                        },
+                        {
+                            "nome": "Prancha",
+                            "grupoMuscular": "Core",
+                            "series": 3,
+                            "repeticoes": "1 min"
+                        }
+                    ]
+                },
+                "Quinta-feira": {
+                    "nome": "Treino de Ombros e Trapézio",
+                    "descricao": "Treino focado em força e hipertrofia para ombros e trapézio.",
+                    "exercicios": [
+                        {
+                            "nome": "Desenvolvimento com Barra",
+                            "grupoMuscular": "Ombros",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Elevação Lateral com Halteres",
+                            "grupoMuscular": "Ombros",
+                            "series": 3,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Arnold Press",
+                            "grupoMuscular": "Ombros",
+                            "series": 3,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Encolhimento de Ombros com Halteres",
+                            "grupoMuscular": "Trapézio",
+                            "series": 4,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Face Pull",
+                            "grupoMuscular": "Ombros e Trapézio",
+                            "series": 3,
+                            "repeticoes": 12
+                        }
+                    ]
+                },
+                "Sexta-feira": {
+                    "nome": "Treino de Peito e Costas",
+                    "descricao": "Treino focado em força e hipertrofia para peito e costas.",
+                    "exercicios": [
+                        {
+                            "nome": "Supino Reto com Barra",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Puxada na Polia Alta",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Supino Inclinado com Halteres",
+                            "grupoMuscular": "Peito",
+                            "series": 3,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Remada Curvada com Barra",
+                            "grupoMuscular": "Costas",
+                            "series": 3,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Crossover na Polia",
+                            "grupoMuscular": "Peito",
+                            "series": 3,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Remada Baixa com Halteres",
+                            "grupoMuscular": "Costas",
+                            "series": 3,
+                            "repeticoes": 12
+                        }
+                    ]
+                },
+                "Sábado": {
+                    "nome": "Treino de Pernas e Abdômen",
+                    "descricao": "Treino focado em força e hipertrofia para pernas e core.",
+                    "exercicios": [
+                        {
+                            "nome": "Agachamento com Barra",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Leg Press",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Cadeira Flexora",
+                            "grupoMuscular": "Pernas",
+                            "series": 3,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Stiff com Barra",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Abdominal Supra",
+                            "grupoMuscular": "Core",
+                            "series": 3,
+                            "repeticoes": 20
+                        },
+                        {
+                            "nome": "Prancha",
+                            "grupoMuscular": "Core",
+                            "series": 3,
+                            "repeticoes": "1 min"
+                        }
+                    ]
+                }
+            }
+        },
+        "Intermediário": {
+            "diasDaSemana": {
+                "Segunda-feira": {
+                    "nome": "Treino de Peito e Tríceps",
+                    "descricao": "Treino com foco em força e hipertrofia para peito e tríceps.",
+                    "exercicios": [
+                        {
+                            "nome": "Supino Reto com Halteres",
+                            "grupoMuscular": "Peito",
+                            "series": 5,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Supino Inclinado com Halteres",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Crossover na Polia",
+                            "grupoMuscular": "Peito",
+                            "series": 3,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Mergulho nas Paralelas",
+                            "grupoMuscular": "Tríceps",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Tríceps na Polia Alta",
+                            "grupoMuscular": "Tríceps",
+                            "series": 4,
+                            "repeticoes": 10
+                        }
+                    ]
+                },
+                "Terça-feira": {
+                    "nome": "Treino de Costas e Bíceps",
+                    "descricao": "Treino com foco em força e hipertrofia para costas e bíceps.",
+                    "exercicios": [
+                        {
+                            "nome": "Puxada na Polia Alta",
+                            "grupoMuscular": "Costas",
+                            "series": 5,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Remada Curvada com Barra",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Remada Unilateral com Halteres",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Rosca Direta com Barra",
+                            "grupoMuscular": "Bíceps",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Rosca Martelo",
+                            "grupoMuscular": "Bíceps",
+                            "series": 3,
+                            "repeticoes": 10
+                        }
+                    ]
+                },
+                "Quarta-feira": {
+                    "nome": "Treino de Pernas e Abdômen",
+                    "descricao": "Treino com foco em força e hipertrofia para pernas e core.",
+                    "exercicios": [
+                        {
+                            "nome": "Agachamento com Barra",
+                            "grupoMuscular": "Pernas",
+                            "series": 5,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Leg Press",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Cadeira Extensora",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Cadeira Flexora",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Abdominal Supra",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": 20
+                        },
+                        {
+                            "nome": "Prancha",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": "1 min"
+                        }
+                    ]
+                },
+                "Quinta-feira": {
+                    "nome": "Treino de Ombros e Trapézio",
+                    "descricao": "Treino com foco em força e hipertrofia para ombros e trapézio.",
+                    "exercicios": [
+                        {
+                            "nome": "Desenvolvimento com Barra",
+                            "grupoMuscular": "Ombros",
+                            "series": 5,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Elevação Lateral com Halteres",
+                            "grupoMuscular": "Ombros",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Arnold Press",
+                            "grupoMuscular": "Ombros",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Encolhimento de Ombros com Halteres",
+                            "grupoMuscular": "Trapézio",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Face Pull",
+                            "grupoMuscular": "Ombros e Trapézio",
+                            "series": 4,
+                            "repeticoes": 12
+                        }
+                    ]
+                },
+                "Sexta-feira": {
+                    "nome": "Treino de Peito e Costas",
+                    "descricao": "Treino com foco em força e hipertrofia para peito e costas.",
+                    "exercicios": [
+                        {
+                            "nome": "Supino Reto com Barra",
+                            "grupoMuscular": "Peito",
+                            "series": 5,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Puxada na Polia Alta",
+                            "grupoMuscular": "Costas",
+                            "series": 5,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Supino Inclinado com Halteres",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Remada Curvada com Barra",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Crossover na Polia",
+                            "grupoMuscular": "Peito",
+                            "series": 3,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Remada Baixa com Halteres",
+                            "grupoMuscular": "Costas",
+                            "series": 3,
+                            "repeticoes": 12
+                        }
+                    ]
+                },
+                "Sábado": {
+                    "nome": "Treino de Pernas e Abdômen",
+                    "descricao": "Treino com foco em força e hipertrofia para pernas e core.",
+                    "exercicios": [
+                        {
+                            "nome": "Agachamento com Barra",
+                            "grupoMuscular": "Pernas",
+                            "series": 5,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Leg Press",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Cadeira Flexora",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Stiff com Barra",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Abdominal Supra",
+                            "grupoMuscular": "Core",
+                            "series": 3,
+                            "repeticoes": 20
+                        },
+                        {
+                            "nome": "Prancha",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": "1 min"
+                        }
+                    ]
+                }
+            }
+        },
+        "Avançado": {
+            "diasDaSemana": {
+                "Segunda-feira": {
+                    "nome": "Treino de Peito e Tríceps",
+                    "descricao": "Treino com foco em força e hipertrofia para peito e tríceps, com alta intensidade.",
+                    "exercicios": [
+                        {
+                            "nome": "Supino Reto com Barra",
+                            "grupoMuscular": "Peito",
+                            "series": 5,
+                            "repeticoes": 4
+                        },
+                        {
+                            "nome": "Supino Inclinado com Halteres",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Crossover na Polia",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Mergulho nas Paralelas (com carga)",
+                            "grupoMuscular": "Tríceps",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Tríceps na Polia Alta (Drop Set)",
+                            "grupoMuscular": "Tríceps",
+                            "series": 4,
+                            "repeticoes": "8-10 + drop"
+                        },
+                        {
+                            "nome": "Tríceps Testa com Barra",
+                            "grupoMuscular": "Tríceps",
+                            "series": 3,
+                            "repeticoes": 8
+                        }
+                    ]
+                },
+                "Terça-feira": {
+                    "nome": "Treino de Costas e Bíceps",
+                    "descricao": "Treino com foco em força e hipertrofia para costas e bíceps, incluindo técnicas avançadas.",
+                    "exercicios": [
+                        {
+                            "nome": "Puxada na Polia Alta (Puxada Pesada)",
+                            "grupoMuscular": "Costas",
+                            "series": 5,
+                            "repeticoes": 4
+                        },
+                        {
+                            "nome": "Remada Curvada com Barra",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Remada Unilateral com Halteres",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Rosca Direta com Barra (Carga Máxima)",
+                            "grupoMuscular": "Bíceps",
+                            "series": 5,
+                            "repeticoes": 4
+                        },
+                        {
+                            "nome": "Rosca Alternada com Halteres",
+                            "grupoMuscular": "Bíceps",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Rosca Scott (Drop Set)",
+                            "grupoMuscular": "Bíceps",
+                            "series": 3,
+                            "repeticoes": "8 + drop"
+                        }
+                    ]
+                },
+                "Quarta-feira": {
+                    "nome": "Treino de Pernas e Abdômen",
+                    "descricao": "Treino com foco em força e hipertrofia para pernas e core, com volume elevado.",
+                    "exercicios": [
+                        {
+                            "nome": "Agachamento com Barra (Pesado)",
+                            "grupoMuscular": "Pernas",
+                            "series": 5,
+                            "repeticoes": 4
+                        },
+                        {
+                            "nome": "Leg Press",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Cadeira Extensora (Super Set com Flexora)",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Cadeira Flexora",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Abdominal Supra",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": 25
+                        },
+                        {
+                            "nome": "Prancha (Com peso)",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": "1-2 min"
+                        }
+                    ]
+                },
+                "Quinta-feira": {
+                    "nome": "Treino de Ombros e Trapézio",
+                    "descricao": "Treino com foco em força e hipertrofia para ombros e trapézio, com intensidade elevada.",
+                    "exercicios": [
+                        {
+                            "nome": "Desenvolvimento com Barra (Pesado)",
+                            "grupoMuscular": "Ombros",
+                            "series": 5,
+                            "repeticoes": 4
+                        },
+                        {
+                            "nome": "Elevação Lateral com Halteres (Super Set com Arnold Press)",
+                            "grupoMuscular": "Ombros",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Arnold Press",
+                            "grupoMuscular": "Ombros",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Encolhimento de Ombros com Halteres (Pesado)",
+                            "grupoMuscular": "Trapézio",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Face Pull",
+                            "grupoMuscular": "Ombros e Trapézio",
+                            "series": 4,
+                            "repeticoes": 12
+                        }
+                    ]
+                },
+                "Sexta-feira": {
+                    "nome": "Treino de Peito e Costas",
+                    "descricao": "Treino intenso com foco em força e hipertrofia para peito e costas.",
+                    "exercicios": [
+                        {
+                            "nome": "Supino Reto com Barra (Pesado)",
+                            "grupoMuscular": "Peito",
+                            "series": 5,
+                            "repeticoes": 4
+                        },
+                        {
+                            "nome": "Puxada na Polia Alta (Puxada Pesada)",
+                            "grupoMuscular": "Costas",
+                            "series": 5,
+                            "repeticoes": 4
+                        },
+                        {
+                            "nome": "Supino Inclinado com Halteres",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Remada Curvada com Barra",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Crossover na Polia",
+                            "grupoMuscular": "Peito",
+                            "series": 3,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Remada Baixa com Halteres",
+                            "grupoMuscular": "Costas",
+                            "series": 3,
+                            "repeticoes": 12
+                        }
+                    ]
+                },
+                "Sábado": {
+                    "nome": "Treino de Pernas e Abdômen",
+                    "descricao": "Treino com foco em força e hipertrofia para pernas e core, com alta intensidade e volume.",
+                    "exercicios": [
+                        {
+                            "nome": "Agachamento com Barra (Pesado)",
+                            "grupoMuscular": "Pernas",
+                            "series": 5,
+                            "repeticoes": 4
+                        },
+                        {
+                            "nome": "Leg Press (Pesado)",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Cadeira Extensora",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Stiff com Barra",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Abdominal Supra",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": 25
+                        },
+                        {
+                            "nome": "Prancha com peso",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": "1-2 min"
+                        }
+                    ]
+                }
+            }
+        }
+    },
+    "Crossfit": {
+        "Iniciante": {
+            "diasDaSemana": {
+                "Segunda-feira": {
+                    "nome": "Treino de Corpo Inteiro",
+                    "descricao": "Treino para trabalhar o corpo inteiro com foco em resistência e técnica.",
+                    "exercicios": [
+                        {
+                            "nome": "Air Squats",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 15
+                        },
+                        {
+                            "nome": "Push-Ups",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Deadlifts com Barra (peso leve)",
+                            "grupoMuscular": "Pernas e Costas",
+                            "series": 3,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Kettlebell Swings",
+                            "grupoMuscular": "Pernas e Core",
+                            "series": 4,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Jumping Jacks",
+                            "grupoMuscular": "Cardio",
+                            "series": 3,
+                            "repeticoes": 30
+                        },
+                        {
+                            "nome": "Plank (Prancha)",
+                            "grupoMuscular": "Core",
+                            "series": 3,
+                            "repeticoes": "30s"
+                        }
+                    ]
+                },
+                "Terça-feira": {
+                    "nome": "Cardio e Mobilidade",
+                    "descricao": "Foco em melhorar a resistência cardiovascular e a flexibilidade.",
+                    "exercicios": [
+                        {
+                            "nome": "Corrida Leve (ou 500m de remo)",
+                            "grupoMuscular": "Cardio",
+                            "series": 3,
+                            "repeticoes": "500m"
+                        },
+                        {
+                            "nome": "Alongamento Dinâmico",
+                            "grupoMuscular": "Geral",
+                            "series": 3,
+                            "repeticoes": "30s por movimento"
+                        },
+                        {
+                            "nome": "Pular corda",
+                            "grupoMuscular": "Cardio",
+                            "series": 4,
+                            "repeticoes": "1 min"
+                        },
+                        {
+                            "nome": "Burpees (com modificação, se necessário)",
+                            "grupoMuscular": "Cardio",
+                            "series": 3,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Mountain Climbers",
+                            "grupoMuscular": "Core e Cardio",
+                            "series": 3,
+                            "repeticoes": 20
+                        }
+                    ]
+                },
+                "Quarta-feira": {
+                    "nome": "Força e Técnica",
+                    "descricao": "Foco em técnica e levantamento de pesos com intensidade moderada.",
+                    "exercicios": [
+                        {
+                            "nome": "Agachamento com Barra (peso leve)",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Push Press (com barra leve)",
+                            "grupoMuscular": "Ombros",
+                            "series": 3,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Lunges (Avanço) com Peso",
+                            "grupoMuscular": "Pernas",
+                            "series": 3,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Pull-Ups (ou assistido)",
+                            "grupoMuscular": "Costas",
+                            "series": 3,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Rowing Machine (Remo)",
+                            "grupoMuscular": "Cardio",
+                            "series": 4,
+                            "repeticoes": "500m"
+                        },
+                        {
+                            "nome": "Leg Raises",
+                            "grupoMuscular": "Core",
+                            "series": 3,
+                            "repeticoes": 15
+                        }
+                    ]
+                },
+                "Quinta-feira": {
+                    "nome": "Cardio Intenso e Força Explosiva",
+                    "descricao": "Exercícios de alta intensidade com foco em explosão muscular.",
+                    "exercicios": [
+                        {
+                            "nome": "Sprints (30s de corrida intensa)",
+                            "grupoMuscular": "Cardio",
+                            "series": 6,
+                            "repeticoes": "30s"
+                        },
+                        {
+                            "nome": "Box Jumps",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Thrusters com Kettlebell",
+                            "grupoMuscular": "Pernas e Ombros",
+                            "series": 4,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Burpees",
+                            "grupoMuscular": "Cardio",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Kettlebell Snatch (com kettlebell leve)",
+                            "grupoMuscular": "Pernas e Ombros",
+                            "series": 3,
+                            "repeticoes": 8
+                        }
+                    ]
+                },
+                "Sexta-feira": {
+                    "nome": "Treino de Corpo Inteiro",
+                    "descricao": "Foco no uso do peso corporal com exercícios funcionais.",
+                    "exercicios": [
+                        {
+                            "nome": "Air Squats",
+                            "grupoMuscular": "Pernas",
+                            "series": 5,
+                            "repeticoes": 20
+                        },
+                        {
+                            "nome": "Push-Ups",
+                            "grupoMuscular": "Peito",
+                            "series": 5,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Lunges",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Plank (Prancha)",
+                            "grupoMuscular": "Core",
+                            "series": 3,
+                            "repeticoes": "45s"
+                        },
+                        {
+                            "nome": "Burpees",
+                            "grupoMuscular": "Cardio",
+                            "series": 3,
+                            "repeticoes": 12
+                        }
+                    ]
+                },
+                "Sábado": {
+                    "nome": "AMRAP (As Many Reps As Possible)",
+                    "descricao": "Treino intenso de resistência onde o objetivo é fazer o máximo de repetições em um tempo determinado.",
+                    "exercicios": [
+                        {
+                            "nome": "Air Squats",
+                            "grupoMuscular": "Pernas",
+                            "series": 1,
+                            "repeticoes": "10 minutos"
+                        },
+                        {
+                            "nome": "Push-Ups",
+                            "grupoMuscular": "Peito",
+                            "series": 1,
+                            "repeticoes": "10 minutos"
+                        },
+                        {
+                            "nome": "Jumping Jacks",
+                            "grupoMuscular": "Cardio",
+                            "series": 1,
+                            "repeticoes": "10 minutos"
+                        },
+                        {
+                            "nome": "Mountain Climbers",
+                            "grupoMuscular": "Core e Cardio",
+                            "series": 1,
+                            "repeticoes": "10 minutos"
+                        }
+                    ]
+                }
+            }
+        },
+        "Intermediário": {
+            "diasDaSemana": {
+                "Segunda-feira": {
+                    "nome": "Treino de Corpo Inteiro",
+                    "descricao": "Treino de corpo inteiro com foco em resistência e movimentos complexos.",
+                    "exercicios": [
+                        {
+                            "nome": "Back Squat (com barra)",
+                            "grupoMuscular": "Pernas",
+                            "series": 5,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Push-Ups com Batida de Mãos",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Kettlebell Swings",
+                            "grupoMuscular": "Pernas e Core",
+                            "series": 4,
+                            "repeticoes": 20
+                        },
+                        {
+                            "nome": "Pull-Ups (ou assistido)",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Burpees",
+                            "grupoMuscular": "Cardio",
+                            "series": 4,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Plank com Toque no Ombro",
+                            "grupoMuscular": "Core",
+                            "series": 3,
+                            "repeticoes": "45s"
+                        }
+                    ]
+                },
+                "Terça-feira": {
+                    "nome": "Cardio e Resistência",
+                    "descricao": "Treino de resistência cardiovascular com foco em movimentos funcionais.",
+                    "exercicios": [
+                        {
+                            "nome": "Corrida 800m",
+                            "grupoMuscular": "Cardio",
+                            "series": 4,
+                            "repeticoes": "800m"
+                        },
+                        {
+                            "nome": "Wall Balls",
+                            "grupoMuscular": "Pernas e Ombros",
+                            "series": 4,
+                            "repeticoes": 15
+                        },
+                        {
+                            "nome": "Double Unders (pular corda dupla)",
+                            "grupoMuscular": "Cardio",
+                            "series": 4,
+                            "repeticoes": 40
+                        },
+                        {
+                            "nome": "Lunges com Kettlebell",
+                            "grupoMuscular": "Pernas",
+                            "series": 3,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Mountain Climbers",
+                            "grupoMuscular": "Cardio e Core",
+                            "series": 4,
+                            "repeticoes": 30
+                        }
+                    ]
+                },
+                "Quarta-feira": {
+                    "nome": "Força e Técnica",
+                    "descricao": "Foco em movimentos fundamentais de levantamento de peso com técnica aprimorada.",
+                    "exercicios": [
+                        {
+                            "nome": "Clean and Jerk (com barra)",
+                            "grupoMuscular": "Pernas, Ombros e Costas",
+                            "series": 5,
+                            "repeticoes": 5
+                        },
+                        {
+                            "nome": "Snatch (com barra)",
+                            "grupoMuscular": "Pernas, Ombros e Costas",
+                            "series": 4,
+                            "repeticoes": 5
+                        },
+                        {
+                            "nome": "Front Squat",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Dumbbell Shoulder Press",
+                            "grupoMuscular": "Ombros",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Russian Twists (com peso)",
+                            "grupoMuscular": "Core",
+                            "series": 3,
+                            "repeticoes": 30
+                        }
+                    ]
+                },
+                "Quinta-feira": {
+                    "nome": "HIIT e Força Explosiva",
+                    "descricao": "Treino de alta intensidade com foco em explosão muscular.",
+                    "exercicios": [
+                        {
+                            "nome": "Box Jumps",
+                            "grupoMuscular": "Pernas",
+                            "series": 5,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Thrusters com Barra",
+                            "grupoMuscular": "Pernas e Ombros",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Burpees com Salto de Caixa",
+                            "grupoMuscular": "Cardio e Pernas",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Kettlebell Swings",
+                            "grupoMuscular": "Pernas e Core",
+                            "series": 4,
+                            "repeticoes": 15
+                        },
+                        {
+                            "nome": "Sprints (30s de corrida intensa)",
+                            "grupoMuscular": "Cardio",
+                            "series": 5,
+                            "repeticoes": "30s"
+                        }
+                    ]
+                },
+                "Sexta-feira": {
+                    "nome": "Treino de Corpo Inteiro",
+                    "descricao": "Exercícios de alta intensidade para todo o corpo com ênfase em força e potência.",
+                    "exercicios": [
+                        {
+                            "nome": "Deadlift com Barra",
+                            "grupoMuscular": "Pernas e Costas",
+                            "series": 5,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Push-Ups com Clap",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Overhead Squats com Barra",
+                            "grupoMuscular": "Pernas e Ombros",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Pull-Ups",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Leg Raises",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": 20
+                        }
+                    ]
+                },
+                "Sábado": {
+                    "nome": "AMRAP",
+                    "descricao": "Desafio de alta intensidade com objetivo de realizar o máximo de repetições em um tempo determinado.",
+                    "exercicios": [
+                        {
+                            "nome": "Air Squats",
+                            "grupoMuscular": "Pernas",
+                            "series": 1,
+                            "repeticoes": "15 minutos"
+                        },
+                        {
+                            "nome": "Push-Ups",
+                            "grupoMuscular": "Peito",
+                            "series": 1,
+                            "repeticoes": "15 minutos"
+                        },
+                        {
+                            "nome": "Jumping Jacks",
+                            "grupoMuscular": "Cardio",
+                            "series": 1,
+                            "repeticoes": "15 minutos"
+                        },
+                        {
+                            "nome": "Burpees",
+                            "grupoMuscular": "Cardio e Pernas",
+                            "series": 1,
+                            "repeticoes": "15 minutos"
+                        }
+                    ]
+                }
+            }
+        },
+        "Avançado": {
+            "diasDaSemana": {
+                "Segunda-feira": {
+                    "nome": "Força e Técnica",
+                    "descricao": "Movimentos pesados de levantamento de peso e aperfeiçoamento da técnica.",
+                    "exercicios": [
+                        {
+                            "nome": "Back Squat (com barra pesada)",
+                            "grupoMuscular": "Pernas",
+                            "series": 5,
+                            "repeticoes": 5
+                        },
+                        {
+                            "nome": "Clean and Jerk",
+                            "grupoMuscular": "Pernas, Ombros e Costas",
+                            "series": 4,
+                            "repeticoes": 5
+                        },
+                        {
+                            "nome": "Snatch",
+                            "grupoMuscular": "Pernas, Ombros e Costas",
+                            "series": 4,
+                            "repeticoes": 10
+                        },
+                        {
+                            "nome": "Thruster",
+                            "grupoMuscular": "Ombro, Perna",
+                            "series": "5",
+                            "repeticoes": "5"
+                        }
+                    ]
+                },
+                "Terça-feira": {
+                    "nome": "Cardio e Movimentos Funcionais",
+                    "descricao": "Foco em resistência cardiovascular com movimentos de alta intensidade.",
+                    "exercicios": [
+                        {
+                            "nome": "Sprints (300m - intensidade máxima)",
+                            "grupoMuscular": "Cardio",
+                            "series": 6,
+                            "repeticoes": "300m"
+                        },
+                        {
+                            "nome": "Wall Balls",
+                            "grupoMuscular": "Pernas e Ombros",
+                            "series": 5,
+                            "repeticoes": 20
+                        },
+                        {
+                            "nome": "Double Unders",
+                            "grupoMuscular": "Cardio",
+                            "series": 5,
+                            "repeticoes": 50
+                        },
+                        {
+                            "nome": "Burpees",
+                            "grupoMuscular": "Cardio e Pernas",
+                            "series": 5,
+                            "repeticoes": 15
+                        },
+                        {
+                            "nome": "Kettlebell Swings Pesados",
+                            "grupoMuscular": "Pernas e Core",
+                            "series": 4,
+                            "repeticoes": 20
+                        }
+                    ]
+                },
+                "Quarta-feira": {
+                    "nome": "Força Explosiva e Alta Intensidade",
+                    "descricao": "Treino explosivo com movimentos rápidos e poderosos.",
+                    "exercicios": [
+                        {
+                            "nome": "Power Cleans",
+                            "grupoMuscular": "Pernas, Costas e Ombros",
+                            "series": 4,
+                            "repeticoes": 5
+                        },
+                        {
+                            "nome": "Push Press (Com Barra)",
+                            "grupoMuscular": "Ombros e Tríceps",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Box Jumps (Alta intensidade)",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Plyometric Push-Ups",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Thrusters com Barra",
+                            "grupoMuscular": "Pernas e Ombros",
+                            "series": 5,
+                            "repeticoes": 10
+                        }
+                    ]
+                },
+                "Quinta-feira": {
+                    "nome": "Endurance e Movimentos Olímpicos",
+                    "descricao": "Treino de resistência de longo prazo com foco em movimentos olímpicos.",
+                    "exercicios": [
+                        {
+                            "nome": "500m Remo",
+                            "grupoMuscular": "Cardio",
+                            "series": 5,
+                            "repeticoes": "500m"
+                        },
+                        {
+                            "nome": "Snatch (com barra pesada)",
+                            "grupoMuscular": "Pernas, Ombros e Costas",
+                            "series": 4,
+                            "repeticoes": 5
+                        },
+                        {
+                            "nome": "Burpees com Push-Up",
+                            "grupoMuscular": "Cardio e Peito",
+                            "series": 5,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Lunges com Kettlebell",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Tire Flips",
+                            "grupoMuscular": "Corpo inteiro",
+                            "series": 4,
+                            "repeticoes": 10
+                        }
+                    ]
+                },
+                "Sexta-feira": {
+                    "nome": "Força e Resistência",
+                    "descricao": "Movimentos pesados para todo o corpo e resistência muscular.",
+                    "exercicios": [
+                        {
+                            "nome": "Deadlift (Pesado)",
+                            "grupoMuscular": "Pernas e Costas",
+                            "series": 5,
+                            "repeticoes": 5
+                        },
+                        {
+                            "nome": "Front Squat",
+                            "grupoMuscular": "Pernas",
+                            "series": 4,
+                            "repeticoes": 8
+                        },
+                        {
+                            "nome": "Push-Ups com Clap",
+                            "grupoMuscular": "Peito",
+                            "series": 4,
+                            "repeticoes": 12
+                        },
+                        {
+                            "nome": "Pull-Ups com Lastro",
+                            "grupoMuscular": "Costas",
+                            "series": 4,
+                            "repeticoes": 6
+                        },
+                        {
+                            "nome": "Hollow Rocks",
+                            "grupoMuscular": "Core",
+                            "series": 4,
+                            "repeticoes": 20
+                        }
+                    ]
+                },
+                "Sábado": {
+                    "nome": "AMRAP (Alta Intensidade)",
+                    "descricao": "Desafio de alta intensidade onde o objetivo é realizar o máximo de repetições em um tempo determinado.",
+                    "exercicios": [
+                        {
+                            "nome": "Thrusters com Barra",
+                            "grupoMuscular": "Pernas e Ombros",
+                            "series": 1,
+                            "repeticoes": "15 minutos"
+                        },
+                        {
+                            "nome": "Burpees com Salto de Caixa",
+                            "grupoMuscular": "Cardio e Pernas",
+                            "series": 1,
+                            "repeticoes": "15 minutos"
+                        },
+                        {
+                            "nome": "Double Unders",
+                            "grupoMuscular": "Cardio",
+                            "series": 1,
+                            "repeticoes": "15 minutos"
+                        },
+                        {
+                            "nome": "Kettlebell Swings Pesados",
+                            "grupoMuscular": "Pernas e Core",
+                            "series": 1,
+                            "repeticoes": "15 minutos"
+                        }
+                    ]
+                }
+            }
+        }
+    }
+}

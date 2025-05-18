@@ -1,0 +1,271 @@
+{
+    "iniciante": {
+      "descricao": "Plano de treino para iniciantes. Foco em adaptação, força básica e melhora do condicionamento.",
+      "exercicios": {
+        "segunda-feira": {
+          "nome": "Segunda-feira - Força (Iniciante)",
+          "exercicios": [
+            {
+              "nome": "Agachamento com Peso Corporal",
+              "grupoMuscular": "Pernas",
+              "series": "3",
+              "repeticoes": "12-15",
+              "alternativa": "Agachamento com cadeira (para apoio)"
+            },
+            {
+              "nome": "Flexão de Braços",
+              "grupoMuscular": "Peito",
+              "series": "3",
+              "repeticoes": "10-12",
+              "alternativa": "Flexão de joelhos"
+            },
+            {
+              "nome": "Remada com Halteres",
+              "grupoMuscular": "Costas",
+              "series": "3",
+              "repeticoes": "10-12",
+              "alternativa": "Remada com elástico"
+            },
+            {
+              "nome": "Prancha",
+              "grupoMuscular": "Core",
+              "series": "3",
+              "repeticoes": "20-30 seg",
+              "alternativa": "Prancha com joelhos apoiados"
+            }
+          ]
+        },
+        "quarta-feira": {
+          "nome": "Quarta-feira - Hipertrofia (Iniciante)",
+          "exercicios": [
+            {
+              "nome": "Supino com Halteres",
+              "grupoMuscular": "Peito",
+              "series": "3",
+              "repeticoes": "10-12",
+              "alternativa": "Supino com barra leve"
+            },
+            {
+              "nome": "Agachamento com Halteres",
+              "grupoMuscular": "Pernas",
+              "series": "3",
+              "repeticoes": "10-12",
+              "alternativa": "Agachamento com peso corporal"
+            },
+            {
+              "nome": "Puxada na Barra Fixa",
+              "grupoMuscular": "Costas",
+              "series": "3",
+              "repeticoes": "8-10",
+              "alternativa": "Puxada na barra com elástico"
+            },
+            {
+              "nome": "Rosca Direta com Halteres",
+              "grupoMuscular": "Bíceps",
+              "series": "3",
+              "repeticoes": "10-12",
+              "alternativa": "Rosca alternada com elástico"
+            }
+          ]
+        },
+        "sexta-feira": {
+          "nome": "Sexta-feira - Condicionamento (Iniciante)",
+          "exercicios": [
+            {
+              "nome": "Burpees (modificado)",
+              "grupoMuscular": "Corpo inteiro",
+              "series": "3",
+              "repeticoes": "8-10",
+              "alternativa": "Passo no lugar (sem pulo)"
+            },
+            {
+              "nome": "Escalador",
+              "grupoMuscular": "Core",
+              "series": "3",
+              "repeticoes": "15-20",
+              "alternativa": "Escalador sem salto (movimento controlado)"
+            },
+            {
+              "nome": "Kettlebell Swing com Halteres",
+              "grupoMuscular": "Pernas e Core",
+              "series": "3",
+              "repeticoes": "15-20",
+              "alternativa": "Swing com peso leve"
+            }
+          ]
+        }
+      }
+    },
+    "intermediario": {
+      "descricao": "Plano de treino intermediário. Foco em aumento de carga, resistência e volume.",
+      "exercicios": {
+        "segunda-feira": {
+          "nome": "Segunda-feira - Força (Intermediário)",
+          "exercicios": [
+            {
+              "nome": "Agachamento com Barra",
+              "grupoMuscular": "Pernas",
+              "series": "4",
+              "repeticoes": "6-8"
+            },
+            {
+              "nome": "Supino Reto com Barra",
+              "grupoMuscular": "Peito",
+              "series": "4",
+              "repeticoes": "6-8"
+            },
+            {
+              "nome": "Remada Curvada com Barra",
+              "grupoMuscular": "Costas",
+              "series": "4",
+              "repeticoes": "6-8"
+            },
+            {
+              "nome": "Desenvolvimento com Barra",
+              "grupoMuscular": "Ombros",
+              "series": "4",
+              "repeticoes": "6-8"
+            }
+          ]
+        },
+        "quarta-feira": {
+          "nome": "Quarta-feira - Hipertrofia (Intermediário)",
+          "exercicios": [
+            {
+              "nome": "Supino Inclinado com Halteres",
+              "grupoMuscular": "Peito",
+              "series": "4",
+              "repeticoes": "8-12"
+            },
+            {
+              "nome": "Puxada na Barra Fixa",
+              "grupoMuscular": "Costas",
+              "series": "4",
+              "repeticoes": "8-12"
+            },
+            {
+              "nome": "Rosca Direta com Barra",
+              "grupoMuscular": "Bíceps",
+              "series": "4",
+              "repeticoes": "10-12"
+            },
+            {
+              "nome": "Agachamento com Barra",
+              "grupoMuscular": "Pernas",
+              "series": "4",
+              "repeticoes": "8-12"
+            }
+          ]
+        },
+        "sexta-feira": {
+          "nome": "Sexta-feira - Condicionamento (Intermediário)",
+          "exercicios": [
+            {
+              "nome": "Burpees",
+              "grupoMuscular": "Corpo inteiro",
+              "series": "4",
+              "repeticoes": "10-12"
+            },
+            {
+              "nome": "Escalador",
+              "grupoMuscular": "Core",
+              "series": "4",
+              "repeticoes": "20-25"
+            },
+            {
+              "nome": "Kettlebell Swing",
+              "grupoMuscular": "Pernas e Core",
+              "series": "4",
+              "repeticoes": "20-25"
+            }
+          ]
+        }
+      }
+    },
+    "avancado": {
+      "descricao": "Plano de treino avançado. Foco em aumento de intensidade, volume e técnica.",
+      "exercicios": {
+        "segunda-feira": {
+          "nome": "Segunda-feira - Força (Avançado)",
+          "exercicios": [
+            {
+              "nome": "Agachamento com Barra Pesada",
+              "grupoMuscular": "Pernas",
+              "series": "5",
+              "repeticoes": "4-6"
+            },
+            {
+              "nome": "Supino Reto com Barra Pesada",
+              "grupoMuscular": "Peito",
+              "series": "5",
+              "repeticoes": "4-6"
+            },
+            {
+              "nome": "Remada Curvada com Barra Pesada",
+              "grupoMuscular": "Costas",
+              "series": "5",
+              "repeticoes": "4-6"
+            },
+            {
+              "nome": "Desenvolvimento com Barra Pesada",
+              "grupoMuscular": "Ombros",
+              "series": "5",
+              "repeticoes": "4-6"
+            }
+          ]
+        },
+        "quarta-feira": {
+          "nome": "Quarta-feira - Hipertrofia (Avançado)",
+          "exercicios": [
+            {
+              "nome": "Supino Inclinado com Halteres Pesados",
+              "grupoMuscular": "Peito",
+              "series": "5",
+              "repeticoes": "8-12"
+            },
+            {
+              "nome": "Puxada na Barra Fixa com Peso Adicional",
+              "grupoMuscular": "Costas",
+              "series": "5",
+              "repeticoes": "8-12"
+            },
+            {
+              "nome": "Rosca Direta com Barra Pesada",
+              "grupoMuscular": "Bíceps",
+              "series": "5",
+              "repeticoes": "10-12"
+            },
+            {
+              "nome": "Agachamento com Barra Pesada",
+              "grupoMuscular": "Pernas",
+              "series": "5",
+              "repeticoes": "8-12"
+            }
+          ]
+        },
+        "sexta-feira": {
+          "nome": "Sexta-feira - Condicionamento (Avançado)",
+          "exercicios": [
+            {
+              "nome": "Burpees com Peso",
+              "grupoMuscular": "Corpo inteiro",
+              "series": "5",
+              "repeticoes": "15"
+            },
+            {
+              "nome": "Escalador com Peso",
+              "grupoMuscular": "Core",
+              "series": "5",
+              "repeticoes": "25"
+            },
+            {
+              "nome": "Kettlebell Swing Pesado",
+              "grupoMuscular": "Pernas e Core",
+              "series": "5",
+              "repeticoes": "25"
+            }
+          ]
+        }
+      }
+    }
+  }
